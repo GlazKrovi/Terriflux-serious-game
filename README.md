@@ -77,7 +77,7 @@ Toute remarque ou suggestion est la bienvenue ! N'hésitez pas à nous en faire 
 GNU General Public License v3.0 (GPLv3).
 
 ## Contact
-Pour toute question, contactez l'équipe de dev.
+Pour toute question, contactez l'équipe de dev via Github (issues)
 
 ## Images du Jeu
 Quelques images du jeu :
